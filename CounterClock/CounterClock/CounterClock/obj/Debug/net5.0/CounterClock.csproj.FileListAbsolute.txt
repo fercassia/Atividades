@@ -1,0 +1,16 @@
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\bin\Debug\net5.0\CounterClock.exe
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\bin\Debug\net5.0\CounterClock.deps.json
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\bin\Debug\net5.0\CounterClock.runtimeconfig.json
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\bin\Debug\net5.0\CounterClock.runtimeconfig.dev.json
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\bin\Debug\net5.0\CounterClock.dll
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\bin\Debug\net5.0\ref\CounterClock.dll
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\bin\Debug\net5.0\CounterClock.pdb
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.csproj.AssemblyReference.cache
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.AssemblyInfoInputs.cache
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.AssemblyInfo.cs
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.csproj.CoreCompileInputs.cache
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.dll
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\ref\CounterClock.dll
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.pdb
+C:\Users\fehcm\Desktop\CounterClock\CounterClock\CounterClock\obj\Debug\net5.0\CounterClock.genruntimeconfig.cache
